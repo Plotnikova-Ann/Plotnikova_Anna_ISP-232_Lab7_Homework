@@ -1,0 +1,4 @@
+package characters
+
+class Enemy {
+}
